@@ -1,0 +1,29 @@
+{
+  "name": "facebook_api_test",
+  "version": "1.0.0",
+  "description": "facebook api test for class 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar60310/fbapi.git"
+  },
+  "keywords": [
+    "facebook",
+    "nodejs"
+  ],
+  "author": "chenping.tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscar60310/fbapi/issues"
+  },
+  "homepage": "https://github.com/oscar60310/fbapi#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "http": "0.0.0",
+    "request": "^2.79.0"
+  }
+}
